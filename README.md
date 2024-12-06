@@ -72,16 +72,7 @@ sudo rpm -ivh mysql-connector-java-8.0.26-1.el7.noarch.rpm
 ---
 
 ## **Step 4: Upload and Run Kernel Tuning Script**
-
-1. **Upload `kernel_tuning.py` via SCP:**
-   ```bash
-   scp kernel_tuning.py centos@<INSTANCE_IP>:/home/centos/
-   ```
-
-2. **Run the Script:**
-   ```bash
-   python3 kernel_tuning.py
-   ```
+## Note : download a folder of usefullscrpit given and excute one by one 
 
 ---
 
