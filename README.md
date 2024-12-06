@@ -72,7 +72,7 @@ sudo rpm -ivh mysql-connector-java-8.0.26-1.el7.noarch.rpm
 ---
 
 ## **Step 4: Upload and Run Kernel Tuning Script**
-## Note : download a folder of usefullscrpit given and excute one by one 
+## Note : This repository contains a collection of useful scripts designed to automate common tasks. Each script is written to be reusable and easily executed. 
 
 ---
 
